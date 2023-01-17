@@ -1,4 +1,4 @@
-# OpenCV-Studies
+# Image Processing - Studies
 This repository contains python scripts I used to revise some OpenCV concepts
 
 ## 1) Edge Detection
